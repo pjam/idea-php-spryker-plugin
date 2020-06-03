@@ -56,7 +56,7 @@ public class PhpClassItem implements PhpClassInterface {
 
     @Override
     public void setParentClass(PhpClassInterface parentClass) {
-        this.setParentClass(parentClass, "Core");
+        this.setParentClass(parentClass, "Spryker");
     }
 
     @Override
